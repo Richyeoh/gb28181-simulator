@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Uniview",
+  "nvrModel": "UN-NVR8-Sim",
+  "ipcModel": "UN-IPC-Sim",
+  "registerContactSuffix": ";q=1.0",
+  "ptzZoomInCmd": "A50F210100",
+  "ptzZoomOutCmd": "A50F210200",
+  "heartbeatIntervalSec": 30,
+  "registerRefreshSec": 60,
+  "subscribeExpiresSec": 3000,
+  "playbackSpeed": 1,
+  "sdpExtraLine": "a=quality:5",
+  "catalogExtraFieldName": "Address",
+  "catalogExtraFieldValue": "Uniview-Sim-Street"
+}

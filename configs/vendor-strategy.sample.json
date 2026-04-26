@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Hikvision",
+  "nvrModel": "DS-9622N-Sim-Custom",
+  "ipcModel": "DS-2CD-Custom",
+  "registerContactSuffix": ";expires=3600",
+  "ptzZoomInCmd": "A50F010100",
+  "ptzZoomOutCmd": "A50F010200",
+  "heartbeatIntervalSec": 20,
+  "registerRefreshSec": 50,
+  "subscribeExpiresSec": 3600,
+  "playbackSpeed": 2,
+  "sdpExtraLine": "a=framerate:25",
+  "catalogExtraFieldName": "Parental",
+  "catalogExtraFieldValue": "0"
+}

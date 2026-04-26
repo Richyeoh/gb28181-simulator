@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Dahua",
+  "nvrModel": "DHI-NVR7-Sim",
+  "ipcModel": "DH-IPC-Sim",
+  "registerContactSuffix": ";ob",
+  "ptzZoomInCmd": "A50F110100",
+  "ptzZoomOutCmd": "A50F110200",
+  "heartbeatIntervalSec": 25,
+  "registerRefreshSec": 55,
+  "subscribeExpiresSec": 1800,
+  "playbackSpeed": 4,
+  "sdpExtraLine": "a=recvonly",
+  "catalogExtraFieldName": "CivilCode",
+  "catalogExtraFieldValue": "340200"
+}
